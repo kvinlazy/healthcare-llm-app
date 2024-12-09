@@ -28,7 +28,7 @@ function Chatbot() {
         {
           headers: {
             'Content-Type': 'application/json',
-            'Authorization': 'Bearer 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',
+            'Authorization': 'Bearer Your_KEY_API',
           },
         }
       );
